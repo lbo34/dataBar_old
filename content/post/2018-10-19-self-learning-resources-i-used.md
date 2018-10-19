@@ -16,8 +16,6 @@ tags:
 
 Before I made the big decision to quit my job at 45 and to go back to the university to follow a M.Sc. program in data science, I have been following online data science trainings (MOOCs) and I would like to share my experience with this in this blog.  
 
-<!--more-->
-
 # First: Coursera
 
 The first platform I started with is **[Coursera](https://www.coursera.org)** with the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) track **John Hopkins University**...  
