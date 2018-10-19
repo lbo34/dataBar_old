@@ -37,7 +37,7 @@ For me, it was not a very difficult choice to drop from Coursera when I discover
 
 DataCamp really nailed it! Not only the courses are very interesting and engaging, but the learning platform itself is great. It has an integrated engine that allows to program in python, R or SQL direclty inside the platform. If you don't know it, test it, this is a great way to learn. The courses can be taken independently but are also organized in skill tracks (4 to 6 courses related to a specific topic) and in carreer tracks (which are much longer). As of today, I have compleded the [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r) career track (23 courses) and 3 skill tracks: [Machine Learning with R](https://www.datacamp.com/tracks/data-scientist-with-r) (4 courses), [Time Series with R](https://www.datacamp.com/tracks/time-series-with-r) (6 courses) and [Text Mining with R]() (4 courses). In total I have followed 44 courses and I am not planning to stop anytime soon as DataCamp is so great.
 
-My only complaint to DataCamp is that, generally, the datasets used in the course are given in the course dashboard, but that is not always the case... So if you try to take notes with a R notebook for instance, it is sometime frustrating because of this.
+My only (minor) complaint to DataCamp is that, generally, the datasets used in the course are given in the course dashboard, but that is not always the case... So if you try to take notes with a R notebook for instance, it is sometime frustrating because of this.
 
 
 # Books
